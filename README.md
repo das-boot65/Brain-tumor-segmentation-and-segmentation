@@ -7,12 +7,6 @@
 
 This project focuses on the automated detection and classification of brain tumors using advanced image processing and machine learning techniques. Built in MATLAB, it combines classical segmentation methods (Otsu, K-means, Fuzzy C-means) with state-of-the-art deep learning models (ResNet-50, Inception v3) for precise tumor identification and classification. The pipeline includes preprocessing, feature extraction using GLCM and DWT, and evaluation using metrics such as accuracy and F1 score.  
 
-Key Features:  
-- **Segmentation**: Implements multiple algorithms like Watershed, K-means, and Fuzzy C-means for tumor localization.  
-- **Feature Extraction**: Utilizes statistical and wavelet-based methods to capture essential image characteristics.  
-- **Classification**: Employs pretrained deep learning models to distinguish between glioma, meningioma, pituitary tumors, and healthy cases.  
-- **Performance Metrics**: Evaluates accuracy, precision, and recall to ensure robust results.  
-
 This project is designed to aid medical professionals with an efficient, non-invasive diagnostic tool for early detection and improved patient outcomes. It aligns with SDG Goal 3: Good Health and Well-being.
 
 ## Badges
